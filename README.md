@@ -113,5 +113,6 @@ The dataset used in this project contains detailed information about car sales t
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/Overview.png)
+![Dashboard Screenshot](/images/Overview.png)
+
 
